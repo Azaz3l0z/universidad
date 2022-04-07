@@ -1,0 +1,11 @@
+CUESTION
+
+-------------------------------
+
+"Identifica similitudes y diferencias entre los lenguajes Java y C en lo referente a: constantes, funciones/métodos, declaración de arrays, uso de arrays e instrucciones básicas (for, if, ...)"
+
+-------------------------------
+
+Las mayores similutes que he encontrado entre Java y C es en la declaración de los tipos de datos primitivos y arrays, en la creación de bucles y (más o menos) en la declaración de funciones.
+
+Las mayores diferencias las he notado a la hora de crear el apartado de 'Mejor Tarifa', donde la forma de acceder a variables del objeto TipoTarifa es muy peculiar y no recuerdo haber visto nada parecido en C.
